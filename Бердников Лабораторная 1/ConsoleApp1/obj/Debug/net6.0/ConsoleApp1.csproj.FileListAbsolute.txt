@@ -1,0 +1,75 @@
+D:\Лабы\Лаба1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\Лабы\Лаба1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\Лабы\Лаба1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Лабы\Лаба1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\Лабы\Лаба1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Лабы\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Лабы\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабы\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Лабы\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Лабы\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Лабы\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\Лабы\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\Лабы\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\Лабы\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\Лабы\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\berdn\Desktop\АСД\Лаба1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\berdn\Desktop\АСД\Лаба1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\berdn\Desktop\АСД\Лаба1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\berdn\Desktop\АСД\Лаба1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\berdn\Desktop\АСД\Лаба1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\berdn\Desktop\АСД\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\berdn\Desktop\АСД\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berdn\Desktop\АСД\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\berdn\Desktop\АСД\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\berdn\Desktop\АСД\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\berdn\Desktop\АСД\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\berdn\Desktop\АСД\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\berdn\Desktop\АСД\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\berdn\Desktop\АСД\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\berdn\Desktop\АСД\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+G:\Лаба1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+G:\Лаба1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+G:\Лаба1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+G:\Лаба1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+G:\Лаба1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+G:\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+G:\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+G:\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+G:\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+G:\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+G:\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+G:\Лаба1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\berdn\Desktop\АСД я\Бердников Лабораторная 1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\berdn\Desktop\АСД я\Бердников Лабораторная 1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\berdn\Desktop\АСД я\Бердников Лабораторная 1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\berdn\Desktop\АСД я\Бердников Лабораторная 1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\berdn\Desktop\АСД я\Бердников Лабораторная 1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\berdn\Desktop\АСД я\Бердников Лабораторная 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\berdn\Desktop\АСД я\Бердников Лабораторная 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berdn\Desktop\АСД я\Бердников Лабораторная 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\berdn\Desktop\АСД я\Бердников Лабораторная 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\berdn\Desktop\АСД я\Бердников Лабораторная 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\berdn\Desktop\АСД я\Бердников Лабораторная 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\berdn\Desktop\АСД я\Бердников Лабораторная 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\berdn\Desktop\АСД я\Бердников Лабораторная 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\berdn\Desktop\АСД я\Бердников Лабораторная 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\berdn\Desktop\АСД я\Бердников Лабораторная 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\berdn\Desktop\АСД я\Лаба 1\Бердников Лабораторная 1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\berdn\Desktop\АСД я\Лаба 1\Бердников Лабораторная 1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\berdn\Desktop\АСД я\Лаба 1\Бердников Лабораторная 1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\berdn\Desktop\АСД я\Лаба 1\Бердников Лабораторная 1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\berdn\Desktop\АСД я\Лаба 1\Бердников Лабораторная 1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\berdn\Desktop\АСД я\Лаба 1\Бердников Лабораторная 1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\berdn\Desktop\АСД я\Лаба 1\Бердников Лабораторная 1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berdn\Desktop\АСД я\Лаба 1\Бердников Лабораторная 1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\berdn\Desktop\АСД я\Лаба 1\Бердников Лабораторная 1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\berdn\Desktop\АСД я\Лаба 1\Бердников Лабораторная 1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\berdn\Desktop\АСД я\Лаба 1\Бердников Лабораторная 1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\berdn\Desktop\АСД я\Лаба 1\Бердников Лабораторная 1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\berdn\Desktop\АСД я\Лаба 1\Бердников Лабораторная 1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\berdn\Desktop\АСД я\Лаба 1\Бердников Лабораторная 1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\berdn\Desktop\АСД я\Лаба 1\Бердников Лабораторная 1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
